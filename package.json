@@ -9,6 +9,10 @@
   },
   "author": "Manoj Singh Negi",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algosdev/comp-test1.git"
+  },
   "peerDependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.3"
